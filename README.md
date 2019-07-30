@@ -1,2 +1,2 @@
 # Chronometer
-It's a countdown timer project.
+It's a countdown timer project, using arduino.
